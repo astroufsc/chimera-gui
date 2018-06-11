@@ -1,1 +1,1 @@
-from chimera.gui.main import ChimeraGUI
+from chimera_gui.main import ChimeraGUI

@@ -23,6 +23,6 @@ if __name__ == '__main__':
 
     import sys
 
-    from chimera.gui import ChimeraGUI
+    from chimera_gui import ChimeraGUI
 
     sys.exit(ChimeraGUI().run(sys.argv))

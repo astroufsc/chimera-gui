@@ -8,11 +8,11 @@ import imp
 import threading
 import logging
 
-try:
-    import pygtk
-    pygtk.require("2.0")
-except:
-    raise Exception("No PyGTK+ available!")
+#try:
+#    import pygtk
+#    pygtk.require("3.0")
+#except:
+#    raise Exception("No PyGTK+ available!")
 
 try:
     import gtk

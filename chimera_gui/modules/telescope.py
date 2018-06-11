@@ -3,7 +3,7 @@ from chimera.core.exceptions import ObjectNotFoundException, printException
 
 from chimera.util.position import Position, Epoch
 
-from chimera.gui.module import ChimeraGUIModule
+from chimera_gui.module import ChimeraGUIModule
 
 import gtk
 import glib

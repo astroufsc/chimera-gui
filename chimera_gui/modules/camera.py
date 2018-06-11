@@ -1,8 +1,8 @@
 from chimera.core.callback import callback
 from chimera.core.exceptions import printException
 
-from chimera.gui.modules.canvas import FITS, FITSCanvas
-from chimera.gui.module import ChimeraGUIModule
+from chimera_gui.modules.canvas import FITS, FITSCanvas
+from chimera_gui.module import ChimeraGUIModule
 
 from chimera.interfaces.camera import CameraStatus
 from chimera.util.image import Image

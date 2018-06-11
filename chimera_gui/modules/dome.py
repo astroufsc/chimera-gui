@@ -1,7 +1,7 @@
 from chimera.core.callback import callback
 from chimera.core.exceptions import printException
 
-from chimera.gui.module import ChimeraGUIModule
+from chimera_gui.module import ChimeraGUIModule
 from chimera.interfaces.dome import Mode
 
 import gtk
